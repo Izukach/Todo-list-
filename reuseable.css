@@ -1,0 +1,16 @@
+.a-Margin{
+    margin: auto;
+}
+
+.color{
+    background-color: rgb(162, 241, 162);
+}
+
+.flex{
+    display: flex;
+}
+
+.justify-content{
+    /* justify-content: space-between; */
+    align-items: center;
+}
